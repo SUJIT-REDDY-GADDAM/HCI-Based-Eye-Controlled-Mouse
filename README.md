@@ -1,5 +1,6 @@
 # Human-Computer Interaction based eye & face controlled mouse
 •	The system built is an eye & face-based interface that acts as a computer mouse to translate 3 face movements and 3 other eye movements such as blinking, gazing, and squinting towards the mouse cursor actions.
+
 •	This system plans to make use of a simple webcam and its 3 basic software requirements are Python, OpenCV, NumPy, and a few other packages that are necessary for face recognition.
 
 # Brief Description
